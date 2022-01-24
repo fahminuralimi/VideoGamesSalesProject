@@ -9,3 +9,4 @@ Values:
 -Able to analyize bivariate
 -Able to determine Random Forest Regression
 -Able to Determine Decision Tree
+-Able to check Intermediate Supervised Regression
