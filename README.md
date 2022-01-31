@@ -1,4 +1,5 @@
 # VideoGamesSalesProject
+I took this data set from the source: https://www.kaggle.com/gregorut/videogamesales
 How to create some project about Exploratory Data Analysis, Pre-Processing and Data Modelling
 
 Values: 
